@@ -1,0 +1,25 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Riki Notes'
+
+theme = "paper"
+
+[params]
+
+  disqusShortname = 'YOUR_DISQUS_SHORTNAME'
+
+  # color style
+  color = 'gray'                 # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'YOUR_TWITTER_ID'     # twitter.com/YOUR_TWITTER_ID
+  instagram = 'YOUR_INSTAGRAM_ID' # instagram.com/YOUR_INSTAGRAM_ID
+
+  # home page profile
+  avatar = ''       # Gravatar email or image url(e.g. "")
+  name = 'Hello,👋'
+  bio = 'Hanya sebuah catatan random dari akar rumpur ✍️'
+
+  # misc
+  disableHLJS = true              # disable requesting highlight.js
+  monoDarkIcon = true             # show monochrome dark mode icon
