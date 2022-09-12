@@ -1,6 +1,6 @@
 ---
 title: "Bulan Ramadhan di Penghujung Studi"
-date: 2018-05-17
+date: 2017-03-03T14:15:59-06:00
 draft: false
 ---
 
