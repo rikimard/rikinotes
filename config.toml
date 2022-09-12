@@ -6,6 +6,7 @@ theme = "paper"
 
 [params]
 
+  dateFormat = "02 Jan 2006"
   disqusShortname = 'YOUR_DISQUS_SHORTNAME'
 
   # color style
