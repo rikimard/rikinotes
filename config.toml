@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://elegant-flan-11739a.netlify.app/'
 languageCode = 'en-us'
 title = 'Riki Notes'
 
