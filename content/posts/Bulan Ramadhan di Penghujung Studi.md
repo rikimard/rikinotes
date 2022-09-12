@@ -4,6 +4,8 @@ date: 2017-03-03T14:15:59-06:00
 draft: false
 ---
 
+<div>{{ .Params.date.Format .Site.Params.dateFormat }}</div>
+
 Hari ini adalah puasa pertama sekaligus semoga jadi puasa terakhir di studi s1 ku di kampus ini. Seperti biasa tak ada suara si mamak saat saur tiba yang biasanya selalu membangunkan raga ini yang sedang terlelap tidur. Pasalnya selama hampir 4 tahun terakhir ini, setiap bulan Ramadhan pasti pulang di penghujung bulan, H-3 atau tidak H-4.
 
 Hampir satu bulan full Ramadhan selalu di habiskan di tanah rantau. Hehehe,. mungkin kedengaranya berlebihan tapi Menu puasa ala anak kostidak semua orang sanggup untuk hidup jauh di tanah rantau apalagi pada saat bulan yang penuh moment istimewa seperti bulan Ramahdan ini.
