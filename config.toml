@@ -4,14 +4,15 @@ title = 'Riki Notes'
 
 theme = "paper"
 
+[permalink]
+   posts =".slug"
+
 [params]
-   
-   dateFormat = "02 Jan 2006"
 
   disqusShortname = 'YOUR_DISQUS_SHORTNAME'
 
   # color style
-  color = 'gray'                 # linen, wheat, gray, light
+  color = 'linen'                 # linen, wheat, gray, light
 
   # header social icons
   twitter = 'YOUR_TWITTER_ID'     # twitter.com/YOUR_TWITTER_ID
